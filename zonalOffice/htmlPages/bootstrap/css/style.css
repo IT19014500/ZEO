@@ -1,0 +1,43 @@
+.slidingg{
+    position: relative;
+    color: #ffffff;
+}
+
+
+
+.slidingg .priv_arrow{
+    position: absolute;
+    bottom: 40%;
+    right: 100%;
+    color: #182a63;
+    width: 50px;
+    height: 50px;
+    /* background: dodgerblue; */
+    border-radius: 50%;
+    text-align: center;
+    line-height: 50px;
+    display: inline-block;
+    cursor: pointer;
+
+}
+
+.slidingg .next_arrow{
+    
+    position: absolute;
+    bottom: 40%;
+    left: 100%;
+    color: #182a63;
+    width: 50px;
+    height: 50px;
+    /* background: dodgerblue; */
+    border-radius: 50%;
+    text-align: center;
+    line-height: 50px;
+    display: inline-block;
+    cursor: pointer;
+
+}
+
+.slidingg .slider_items{
+    /* color: #ffffff; */
+}
